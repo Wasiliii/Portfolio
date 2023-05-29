@@ -13,7 +13,6 @@ const Header = () =>{
                     <p>with passion for learning and creating.</p>
                 </div>
                 <a href="/Wasilii.pdf" target="_blank" className="btn">Open CV</a>
-                {/*<a href="/"  download="Wasilii.pdf" className="btn">Open CV</a>*/}
             </div>
         </header>
     );
