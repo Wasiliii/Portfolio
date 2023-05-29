@@ -12,7 +12,8 @@ const Header = () =>{
                 <div className="header__text">
                     <p>with passion for learning and creating.</p>
                 </div>
-                <a href="/"  download="Wasilii.pdf" className="btn">Download CV</a>
+                <a href="/Wasilii.pdf" target="_blank" className="btn">Open CV</a>
+                {/*<a href="/"  download="Wasilii.pdf" className="btn">Open CV</a>*/}
             </div>
         </header>
     );
